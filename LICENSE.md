@@ -1,53 +1,44 @@
-REGULAMIN LICENCYJNY PROJEKTU "AIR HOT MAGAZYN ENERGII CIEPLNEJ" lub inaczej zwany : „MAGAZYN ENERGII CIEPLNEJ Air Hot” (LICENSE.md)
+REGULAMIN LICENCYJNY i MATRYCA OCHRONY PRAWNEJ
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone. 
 
-Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone.
+Niniejszy dokument określa całościowe zasady korzystania z dokumentacji technicznej, opisów, koncepcji, tekstów scenariuszy, algorytmów, kodu źródłowego oraz wszelkich rozwiązań, urządzeń i systemów autorstwa Twórcy, udostępnianych w niniejszym repozytorium oraz powiązanych modułach. 
 
-Niniejszy dokument określa zasady korzystania z dokumentacji technicznej, opisów, koncepcji oraz rozwiązań systemowych projektu uniwersalnego i modułowego magazynu ciepła "Air Hot".
+Oficjalna i jedyna autorska wersja dokumentacji oraz projektów jest stale rozwijana pod adresem : https://github.com/DarayavahusIV/MAGAZYN-ENERGII-CIEPLNEJ-Air-Hot 
 
-Oficjalna i jedyna autorska wersja tego dokumentu oraz projektu jest stale rozwijana pod adresem : https://github.com/DarayavahusIV/MAGAZYN-ENERGII-CIEPLNEJ-Air-Hot.git 
-
-Projekt funkcjonuje w oparciu o model wielopoziomowy (Triple-Licensing Model), dzielący użytkowników na kategorie prywatne-niekomercyjne, otwarte-copyleft oraz partnerów prawnych.
-
-1. UŻYTKOWNICY PRYWATNI i NIEKOMERCYJNI (CC BY-NC-SA 4.0)
-
-Wszystkie materiały tekstowe, opisy, wytyczne proporcji oraz schematy logiczne zawarte w tym repozytorium są udostępniane publicznie na warunkach międzynarodowej licencji : Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 (CC BY-NC-SA 4.0).
-Prawa i bezwzględne zakazy :
-•	Wolność budowy DIY : Licencjobiorca ma prawo bezpłatnie pobrać niniejszy opis i na jego podstawie zbudować urządzenie/magazyn wyłącznie na użytek własny, prywatny i bezdochodowy (np. ogrzewanie własnego domu, prywatnego garażu, balii lub basenu).
-•	Kategoryczny zakaz sublicencjonowania : Użytkownikom nie przysługuje prawo do udzielania dalszych licencji (sublicencji), odsprzedaży dokumentacji, pobierania jakichkolwiek opłat od osób trzecich ani czerpania korzyści majątkowych z udostępniania tych zasobów.
-•	Warunek klauzuli Copyleft (ShareAlike) : Jeśli użytkownik zmodyfikuje niniejszy projekt i postanowi go publicznie udostępnić, nowe opracowanie musi być objęte dokładnie tą samą licencją (CC BY-NC-SA 4.0), musi pozostać całkowicie darmowe dla społeczności, a pierwotny autor musi zostać wyraźnie wskazany.
-
+Całość projektu funkcjonuje w oparciu o hybrydowy model wielopoziomowy (Triple-Licensing Model), chroniący własność intelektualną przed nieautoryzowaną komercjalizacją i plagiatem przy jednoczesnym zachowaniu pełnej wolności dla twórczości prywatnej. 
+1. UŻYTKOWNICY PRYWATNI I NIEKOMERCYJNI (CC BY-NC-SA 4.0)
+Wszelkie rozwiązania, urządzenia, systemy, materiały tekstowe, opisy, schematy logiczne oraz wytyczne zawarte w tym repozytorium są udostępniane publicznie na warunkach międzynarodowej licencji: Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 (CC BY-NC-SA 4.0). 
+Prawa i bezwzględne restrykcje: 
+•	Wolność budowy DIY: Licencjobiorca ma prawo bezpłatnie pobrać niniejsze opracowanie i na jego podstawie wdrażać rozwiązania, budować urządzenia oraz systemy wyłącznie na użytek własny, osobisty, prywatny i bezdochodowy (np. w celu zaspokojenia własnych potrzeb bytowych w prywatnym domu mieszkalnym, garażu czy ogrodzie). 
+•	Rygor własnoręczności (Blokada pozornego DIY): Licencja prywatna obowiązuje wyłącznie wtedy, gdy inwestor wdraża rozwiązania, buduje urządzenia lub systemy własnoręcznie bądź z bezpłatną pomocą osób bliskich. Jeżeli do prac montażowych, konfiguracji lub rozruchu zatrudniony zostaje podmiot zewnętrzny (firma instalacyjna, wykonawca, rzemieślnik pobierający wynagrodzenie), podmiot ten musi posiadać aktywną Licencję Komercyjną B2B. 
+•	Zakaz sublicencjonowania i handlu treścią: Użytkownikom prywatnym nie przysługuje prawo do udzielania dalszych licencji, odsprzedaży samej dokumentacji (tekstów, opisów, scenariuszy) w formie cyfrowej lub papierowej, świadczenia odpłatnych usług doradczych lub wykonawczych dla osób trzecich, ani czerpania jakichkolwiek innych pośrednich lub bezpośrednich korzyści majątkowych. 
+•	Klauzula Copyleft (ShareAlike): W przypadku zmodyfikowania niniejszych rozwiązań, urządzeń lub systemów i chęci ich publicznego udostępnienia, nowe opracowanie musi być objęte dokładnie tą samą licencją (CC BY-NC-SA 4.0), musi pozostać całkowicie darmowe dla społeczności, a pierwotny Autor musi zostać wyraźnie wskazany z nazwy wraz z podaniem oficjalnego LINKU do repozytorium źródłowego. 
 2. OCHRONA WOLNOŚCI KODU i ALGORYTMÓW (GPLv3)
+Wszelkie autorskie skrypty, oprogramowanie sterujące, oprogramowanie wbudowane (firmware) oraz logiczne modyfikacje automatyki i systemów podlegają rygorom licencji GNU General Public License v3 (GPLv3). 
+•	Wymog otwartości: Każdy użytkownik modyfikujący lub dystrybuujący kod bądź algorytmy oparte na niniejszym projekcie w celach niekomercyjnych, ma bezwzględny obowiązek upublicznienia pełnego kodu źródłowego swojego opracowania na warunkach licencji GPLv3. 
+•	Zakaz zamkniętej komercjalizacji: Wykorzystanie kodu lub struktur logicznych w zamkniętych, komercyjnych systemach bądź urządzeniach firm trzecich bez uprzedniej, pisemnej zgody Autora jest kategorycznie zabronione i stanowi rażące naruszenie prawa autorskiego. 
+3. REŻIM KOMERCYJNY (B2B) i SYSTEM OPŁAT LICENCYJNYCH
+Wdrożenie opisywanych rozwiązań, urządzeń lub systemów w jakiejkolwiek przestrzeni służącej do prowadzenia działalności gospodarczej, generowania przychodu lub optymalizacji kosztów komercyjnych wymaga uprzedniego wykupienia Licencji Komercyjnej B2B. 
+Obejmuje to w szczególności: obiekty przemysłowe, hale, magazyny, hotele, lokale usługowe, pensjonaty, domki letniskowe na wynajem, biura, a także wszelkie towarowe gospodarstwa rolne, hodowlane, ogrodnicze oraz budynki mieszkalne, w których zarejestrowano lub fizycznie prowadzi się działalność gospodarczą. Zakaz komercjalizacji obejmuje również płatną odsprzedaż i włączanie niniejszych tekstów, opisów lub scenariuszy do płatnych publikacji, szkoleń czy e-booków. 
+Oficjalny taryfikator legalizacyjny i sankcyjny: 
+•	Licencja Instalatorska/Wykonawcza (Abonament): Dla firm handlowo-usługowych i montażowych chcących komercyjnie oferować wdrażanie rozwiązań, urządzeń i systemów Autora swoim klientom. Opłata wynosi 4 000 PLN netto za każdy rok trwania subskrypcji partnerskiej. Licencja ta nie daje prawa do odsprzedawania ani sublicencjonowania praw autorskich podmiotom trzecim. 
+•	Ryczałtowa Kara Umowna z Tytułu Naruszeń: Każde nieautoryzowane (bezumowne) wykorzystanie rozwiązań, urządzeń lub systemów przez podmiot gospodarczy, a także budowanie systemu przez komercyjnego wykonawcę w szarej strefie (poza systemem podatkowym, bez wystawienia faktury lub bez wydania oficjalnej, pisemnej gwarancji na wykonaną pracę) bądź nielegalny handel samą dokumentacją tekstową, skutkuje natychmiastowym naliczeniem kary umownej w wysokości 50 000 PLN netto za każde rozpoczęte naruszenie, powiększonej o równowartość strat z tytułu poniesionych przez Autora nieopłaconych licencji komercyjnych B2B, bez względu na ostateczną skalę instalacji lub nakład publikacji. 
+4. PROGRAM ZGŁOSZEŃ (AFFILIATE BOUNTY) i PROCESOWA CESJA POWIERNICZA
+W celu eliminacji piractwa technologicznego w sektorze B2B oraz bezkompromisowego zwalczania czarnego rynku, partactwa i złodziejstwa własności intelektualnej, ustanawia się publiczny program detektywistyczny dla osób fizycznych i prawnych ("Łowców"). 
+4.1. Procedura i wytyczne dla Łowców (Klauzula czystych rąk): W przypadku wykrycia komercyjnego podmiotu korzystającego z rozwiązań, urządzeń lub systemów Autora bez opłaconej licencji, lewego wykonawcy działającego bez faktury i pisemnej gwarancji, bądź osoby nielegalnie handlującej tymi opisami, Łowca zobowiązany jest zabezpieczyć materiał dowodowy i przesłać go na adres: 
+Darayavahus_IV@proton.me 
+Obowiązuje bezwzględna zasada pierwszeństwa zgłoszenia. 
+Legalność dowodów: Łowca oświadcza pod rygorem utraty prawa do nagrody, że dowody zostały pozyskane w sposób w pełni legalny (np. zdjęcia z przestrzeni publicznej, z drona, publiczne materiały marketingowe sprawcy, zrzuty ekranu z social media, ogłoszenia sprzedażowe lub dokumentacja sporządzona podczas legalnego pobytu w ogólnodostępnej części obiektu jako klient). Zabrania się naruszania miru domowego oraz tajemnic przedsiębiorstwa podmiotów trzecich. 
+4.2. Bezpieczny model procesowy (Cesja Powiernicza): W przypadku pozytywnej weryfikacji dowodów, Autor zawiera z Łowcą umowę terminowej, celowej Cesji Powierniczej Wierzytelności Odszkodowawczej. Na mocy tej umowy prawo do dochodzenia roszczeń i prowadzenia procesu przeciwko danej firmie/partaczowi zostaje formalnie przeniesione na Łowcę. Łowca prowadzi proces przed sądem we własnym imieniu i przez wybraną przez siebie (lub rekomendowaną przez Autora) kancelarię prawną, w pełni na własny koszt i własne ryzyko finansowe. Majątek osobisty Autora jest całkowicie odcięty od ryzyka procesowego. 
+4.3. Podział wyegzekwowanych środków (90/10): W przypadku wygrania procesu lub zawarcia ugody, cała wywalczona kwota (obejmująca 50 000 PLN kary ryczałtowej oraz wyliczoną równowartość utraconych licencji) trafia na rachunek depozytowy kancelarii. Po pokryciu kosztów sądowych, z czystej kwoty netto Łowca zatrzymuje 90% jako wynagrodzenie za dostarczenie dowodów i podjęcie ryzyka finansowego, a 10% przelewa zwrotnie na konto Autora jako zwrotne przeniesienie części wierzytelności na fundusz rozwoju projektów. Prowizja ta kategorycznie nie obejmuje dobrowolnych, oficjalnych zakupów licencji abonamentowych na przyszłość, które firmy opłacają bezpośrednio u Autora. 
+5. OGRANICZENIE ODPOWIEDZIALNOŚCI (DISCLAIMER) i KLAUZULE KOŃCOWE
+Wszelkie rozwiązania, urządzenia oraz systemy, a także powiązane z nimi opisy techniczne, algorytmy i schematy logiczne udostępniane są w stanie, w jakim się znajdują („AS IS”), wyłącznie w celach edukacyjnych, informacyjnych i badawczych. Autor nie udziela żadnych gwarancji – wyraźnych ani dorozumianych – w tym m.in. gwarancji przydatności handlowej, sprawności energetycznej czy osiągnięcia jakichkolwiek wskaźników wydajnościowych lub oszczędności finansowych. 
+Każda fizyczna adaptacja projektów oraz montaż rozwiązań, urządzeń i systemów w strukturze budynku (w piwnicach, na posadzkach, dachach, ścianach czy ławach fundamentowych) musi być ostatecznie zweryfikowana pod kątem nośności, statyki i bezpieczeństwa konstrukcyjnego przez uprawnionego inżyniera budownictwa. 
+Wdrażane rozwiązania, urządzenia czy systemy mogą operować w warunkach wysokotemperaturowych (potencjał generowania temperatur powyżej 100°C, a w sytuacjach stagnacji, awarii wentylacji, braku odbioru energii lub w wersjach szczytowych od 140°C do nawet 200°C), co niesie za sobą bezpośrednie ryzyko ciężkich oparzeń, pożaru, skażenia chemicznego lub nieodwracalnego uszkodzenia mienia w przypadku błędu montażowego, użycia niewłaściwych materiałów (kategoryczny zakaz tworzyw sztucznych) lub braku stałego nadzoru. 
+Każdy użytkownik (zarówno prywatny, jak i komercyjny) wdraża rozwiązania, buduje oraz eksploatuje urządzenia i systemy wyłącznie na własną odpowiedzialność, własny koszt i pełne ryzyko prawne, będąc w pełni świadomym zagrożeń zdrowotnych i pożarowych. 
 
-Wszelkie autorskie skrypty, oprogramowanie sterujące oraz logiczne modyfikacje systemowe udostępniane w tym projekcie podlegają rygorom licencji GNU General Public License v3 (GPLv3).
-•	Zasada Copyleft : Każdy użytkownik, który modyfikuje lub dystrybuuje kod oparty o niniejszy projekt w celach niekomercyjnych, ma bezwzględny obowiązek udostępnić pełny kod źródłowy swojego opracowania publicznie na tej samej licencji (GPLv3).
-•	Zakaz komercjalizacji kodu : Wykorzystanie kodu w zamkniętych, komercyjnych systemach firm trzecich bez zgody autora oraz bez ujawnienia źródeł jest zabronione i stanowi rażące naruszenie praw autorskich. Każda inna forma eksploatacji wymaga podpisania osobnej umowy z Autorem.
+Autor nie ponosi żadnej odpowiedzialności cywilnej, karnej, deliktowej oraz kontraktowej za jakiekolwiek szkody na zdrowiu, życiu lub mieniu, a także za błędy wykonawcze, wady konstrukcyjne, niedopatrzenia lub brak wiedzy, powstałe w wyniku interpretacji, budowy, montażu lub użytkowania rozwiązań, urządzeń i systemów opartych na niniejszym opisie.
+Wszelkie spory prawne wynikające z interpretacji, naruszenia lub stosowania niniejszych rozwiązań, urządzeń i systemów podlegają wyłącznie prawu polskiemu i będą rozstrzygane przez sąd powszechny właściwy dla miejsca zamieszkania lub siedziby Autora. Jeżeli jakiekolwiek postanowienie niniejszego dokumentu zostanie uznane za nieważne lub niewykonalne na mocy obowiązujących przepisów, nie wpływa to na ważność i wykonalność pozostałych postanowień, które pozostają w pełnej mocy.
 
-3. PROGRAM ZGŁOSZEŃ PARTNERSKICH i OCHRONA PRAWNA (AFFILIATE BOUNTY)
-
-W celu rygorystycznego eliminowania nieautoryzowanych wdrożeń komercyjnych (w firmach, gospodarstwach rolnych, halach przemysłowych, hotelach czy instytucjach) bez wykupionej licencji B2B, ustanawia się publiczny program zgłoszeń. Osoby fizyczne oraz prawne mogą czerpać bezpośrednie korzyści finansowe z wykrywania i zabezpieczania dowodów nielegalnych wdrożeń komercyjnych na poniższych warunkach :
-
-3.1. Procedura zgłoszenia naruszenia :
-
-W przypadku wykrycia podmiotu korzystającego z technologii "Air Hot" bez licencji komercyjnej, Partner ("Łowca") zobowiązany jest zabezpieczyć dowody (np. zdjęcia instalacji, lokalizację, dane firmy, profil działalności) i przesłać je na adres e-mail : Darayavahus_IV@proton.me. Obowiązuje zasada pierwszeństwa : wyłączność na nagrodę z tytułu danego naruszenia otrzymuje osoba, która jako pierwsza dostarczyła Autorowi kompletne i wiarygodne dowody z konkretnego miejsca.
-
-3.2. Finansowanie, ryzyko i obsługa procesowa :
-
-Własność intelektualna projektu oraz autorskie prawa majątkowe na każdym etapie pozostają wyłączną własnością Autora. Autor nie uczestniczy osobiście w procesie weryfikacji i wyszukiwania naruszeń w terenie. Powództwo przed sądami powszechnymi oraz organami egzekucyjnymi przeciwko podmiotom naruszającym licencję komercyjną wytaczane i prowadzone jest wyłącznie przez Autora lub reprezentującą go oficjalnie, profesjonalną kancelarię prawną (adwokatów/radców prawnych). Taki układ zapewnia pełną anonimowość i brak zaangażowania operacyjnego ze strony Autora.
-Partner ("Łowca"), którego zgłoszenie zostało zweryfikowane pozytywnie jako pierwsze, zawiera z Autorem oraz reprezentującą go kancelarią odrębną umowę o finansowanie sporu (Litigation Funding). Na jej mocy Łowca dobrowolnie pokrywa koszty procedur przygotowawczych, wpisów sądowych, zaliczek na biegłych oraz koszty obsługi prawnej na własne ryzyko finansowe. W przypadku przegrania procesu, Łowca na mocy umowy samodzielnie i w całości pokrywa zasądzone koszty zastępstwa procesowego strony przeciwnej, a Autor nie ponosi żadnej odpowiedzialności finansowej za wynik sporu.
-
-3.3. Podział zasądzonych środków (prowizja 90/10) :
-
-Wynagrodzeniem Łowcy za dostarczenie kluczowego materiału dowodowego oraz podjęcie ryzyka finansowania procesu jest prowizja w wysokości 90% (dziewięćdziesiąt procent) kwoty netto faktycznie wywalczonej, zasądzonej i skutecznie wyegzekwowanej od nieuczciwego podmiotu gospodarczego.
-Kwota odszkodowania, kary lub ugody musi zostać wpłacona na wskazany rachunek depozytowy, po czym zostaje pomniejszona o realne, faktycznie poniesione koszty wynagrodzenia i wydatków kancelarii prawnej prowadzącej sprawę. Z tak uzyskanej czystej kwoty netto Autor zatrzymuje 10% (dziesięć procent) na fundusz rozwoju projektów realizowanych przez Autora, a 90% (dziewięćdziesiąt procent) niezwłocznie przekazuje na wskazany rachunek bankowy Łowcy.
-
-Krytyczne wyłączenie : Powyższy podział i wynagrodzenie prowizyjne dla Łowcy dotyczy wyłącznie jednorazowych wypłat odszkodowawczych, kar umownych lub kwot z ugód sądowych/pozasądowych za przeszłe łamanie licencji. Prowizja ta kategorycznie nie obejmuje opłat za dobrowolny, oficjalny wykup licencji komercyjnych na przyszłość oraz ewentualnych opłat abonamentowych płaconych przez firmy bezpośrednio Autorowi za oficjalne i legalne użytkowanie systemu w kolejnych latach.
-
-4. OGRANICZENIE ODPOWIEDZIALNOŚCI (DISCLAIMER)
-
-Autor udostępnia zawarte w repozytorium informacje wyłącznie w celach edukacyjnych i badawczych. Urządzenie budowane według opisu jest konstrukcją wysokotemperaturową (potencjał generowania temperatur powyżej 80°C, a w wersjach zmodyfikowanych/szczytowych do 140°C, a nawet do 200°C), co niesie za sobą ryzyko oparzeń, pożaru lub uszkodzenia mienia w przypadku błędu montażowego lub braku nadzoru.
-Każdy użytkownik (zarówno prywatny, jak i komercyjny) buduje i eksploatuje urządzenie wyłącznie na własną odpowiedzialność i ryzyko. Autor nie ponosi żadnej odpowiedzialności cywilnej ani karnej za jakiekolwiek szkody na zdrowiu, życiu lub mieniu powstałe w wyniku interpretacji, budowy lub użytkowania instalacji opartej na niniejszym opisie.
-________________________________________
-LINK do repozytorium : https://github.com/DarayavahusIV/MAGAZYN-ENERGII-CIEPLNEJ-Air-Hot.git 
 Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone.
-
-
+Oficjalna i jedyna autorska wersja dokumentacji oraz projektów jest stale rozwijana pod adresem : https://github.com/DarayavahusIV/MAGAZYN-ENERGII-CIEPLNEJ-Air-Hot
